@@ -1,3 +1,7 @@
 ipykernel
 dotenv
 kaggle
+scikit-learn
+matplotlib
+numpy
+pandas
